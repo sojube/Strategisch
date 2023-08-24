@@ -1,0 +1,23 @@
+[
+    {
+    "first_name": "jules",
+    "city": "frabkfurt",
+    "state": "Maine",
+    "parents": ["Jack", "Jill"],
+    "postcode": "47112-5068"
+    },
+    {
+    "first_name": "Gina",
+    "city": "rheheh",
+    "state": "Oregon",
+    "parents": ["Jack2", "Jill"],
+    "postcode": "37898"
+    },
+    {
+    "first_name": "Gunnar",
+    "city": "Smithborough",
+    "state": "North Dakota",
+    "parents": ["Jack1"],
+    "postcode": "74798-1567"
+    }
+    ]
